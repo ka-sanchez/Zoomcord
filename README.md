@@ -1,2 +1,1 @@
-# eTools
-A webapp that lets educators find useful apps quickly. Built for HackMIT 2020.
+A discord bot/webapp that promotes fitness. Built for HackMIT 2020.
